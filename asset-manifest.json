@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monosters-rolodex/static/css/main.7d3c116f.css",
+    "main.js": "/monosters-rolodex/static/js/main.6a908b44.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/monosters-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/monosters-rolodex/index.html",
+    "main.7d3c116f.css.map": "/monosters-rolodex/static/css/main.7d3c116f.css.map",
+    "main.6a908b44.js.map": "/monosters-rolodex/static/js/main.6a908b44.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/monosters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3c116f.css",
+    "static/js/main.6a908b44.js"
+  ]
+}
